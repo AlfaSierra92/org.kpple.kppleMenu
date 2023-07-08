@@ -17,23 +17,23 @@ msgstr ""
 
 #: ../contents/ui/main.qml
 msgid "About This Computer"
-msgstr "Su questo computer" 
+msgstr "Informazioni"
 
 #: ../contents/ui/main.qml
 msgid "System Preferences..."
-msgstr "Preferenze di Sistema..." 
+msgstr "Preferenze di Sistema..."
 
 #: ../contents/ui/main.qml
 msgid "App Store..."
-msgstr "App Store..." 
+msgstr "Discover..."
 
 #: ../contents/ui/main.qml
 msgid "Force Quit..."
-msgstr "Chiusura forzata..." 
+msgstr "Uscita forzata..."
 
 #: ../contents/ui/main.qml
 msgid "Sleep"
-msgstr "Metti in pausa l'attività"
+msgstr "Standby"
 
 #: ../contents/ui/main.qml
 msgid "Restart..."
@@ -41,15 +41,15 @@ msgstr "Riavvia..."
 
 #: ../contents/ui/main.qml
 msgid "Shut Down..."
-msgstr "Spegni..."
+msgstr "Spegnere..."
 
 #: ../contents/ui/main.qml
 msgid "Lock Screen"
-msgstr "Blocca schermo"
+msgstr "Schermata di blocco"
 
 #: ../contents/ui/main.qml
 msgid "Log Out"
-msgstr "Disconnetti"
+msgstr "Eseguire il logout"
 
 #: ../contents/config/config.qml
 msgid "Advanced"
